@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
+<body>
 
 <h2>Registration Form</h2>
 
@@ -28,5 +29,6 @@ function check() {
 }
 </script>
 
+</body>
 </body>
 </html>
